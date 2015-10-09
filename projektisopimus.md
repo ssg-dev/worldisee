@@ -1,4 +1,4 @@
-Raportti aineettomista oikeuksista
+﻿Raportti aineettomista oikeuksista
 ==================================
 
 Alla on peliprojektisopimuksen luonnos. Tämä sopimus käydään läpi vielä jokaisen jäsenen kanssa ennen hyväksymistä. 
@@ -48,7 +48,7 @@ Tiimin jäsenillä yhdessä on Oikeudet Projektin tuotoksena syntyvään Peliin.
 
 ###2. Tiimin jäsenten oikeudet
 
-Jokaisella Tiimin jäsenellä on Oikeudet Peliin tuottamiinsa aineistoihin, kuten grafiikkaan, musiikkiin, ääniin tai muihin elementteihin. [*Tähän voi tarvittaessa lisätä rajoituksia, esim. voidaan erikseen poistaa Tiimin jäsenten edelleenluovutusoikeudet Peliin tuottamistaan aineistoista.*]
+Jokaisella Tiimin jäsenellä on Oikeudet Peliin tuottamiinsa aineistoihin, kuten grafiikkaan, musiikkiin, ääniin tai muihin elementteihin.
 
 Jokaisella Tiimin jäsenellä on pysyvä ja rinnakkainen oikeus käyttää Peliä referenssinään niiltä osin, joita kohdan 6 mukaisesti ei ole sovittu salaisiksi. 
 
