@@ -5,7 +5,7 @@ Viikko 50
 FPS ongelmien parantelua, hiomista ja buildin tekoa 17.12 varten.
 
 #### Jyri Liimatta  ####
-Trelloon tehtävien lisääminen, posteri ja art keskustelua sekä tehtävien jakoa 11h
+Trelloon tehtävien lisääminen, posteri ja art keskustelua sekä tehtävien jakoa, final miitin ajastus 11h
 #### Miika Linden  ####
 Navmesh liikkuminen, pallon heiton tuntuman tuunaaminen 10h
 #### Jennika Suni    ####
