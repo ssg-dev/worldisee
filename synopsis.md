@@ -5,19 +5,19 @@ Synopsis
 
 The World I See pelissä seikkailee sokea poika. Poika on isovanhempiensa luona maalla yötä, ja kesken yön hän päättää lähteä seikkailemaan. Pelaaja ohjaa poikaa läpi kenttien tutkien maailmaa, ratkomalla yksinkertaisia ongelmia ja väistelemällä esteitä. Pelihahmo ei näe mitä hänen ympärillään on, mutta hän kuulee ympärillä olevat asiat sekä pystyy itse kaikiluotaamaan selvittääkseen mitä hänen ympärillään on. 
 ### Ryhmän Jäsenet
-Mika Lindén - miika.linden@gmail.com - 0443463633
+Mika Lindén 
 
-Jyri Liimatta - jyri.liimatta@gmail.com - 0503590787
+Jyri Liimatta
 
-Jennika Suni - jennika.suni@gmail.com - 0503703979
+Jennika Suni
 
-Erno Lehtonen - h3656@student.jamk.fi - 0445775547
+Erno Lehtonen
 
-Henri Heinonen - henri.heinonen@gmail.com - 0452352577
+Henri Heinonen 
 
-Ossi Rajala - ossi.m.s.rajala@gmail.com - 0405341068
+Ossi Rajala 
 
-Veli-Pekka Oksanen - vp.oksanen@gmail.com - 0503248093
+Veli-Pekka Oksanen 
 
 
 ### Vastuualueet
